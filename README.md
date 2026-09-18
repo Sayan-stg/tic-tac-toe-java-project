@@ -1,8 +1,4 @@
 # Tic-Tac-Toe Game (Java)
-
-**Author:** Sayan Mondal  
-**Registration Number:** 25BAI11532  
-
 ---
 
 ## Overview
