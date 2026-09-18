@@ -1,5 +1,10 @@
 # Tic-Tac-Toe Game (Java)
 
+**Author:** Sayan Mondal  
+**Registration Number:** 25BAI11532  
+
+---
+
 ## Overview
 This project is a text-based, two-player Tic‑Tac‑Toe game developed in Java. It runs in the terminal and allows two players (Player X and Player O) to play alternately by selecting grid positions from 0 to 8. The application illustrates core programming and software design concepts—including modular methods, 1D array manipulation, game loop management, input validation, and win/draw condition evaluations.
 
@@ -31,8 +36,8 @@ This project is a text-based, two-player Tic‑Tac‑Toe game developed in Java.
    ```
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Sayan-stg/project1.git
-   cd project1
+   git clone https://github.com/Sayan-stg/tic-tac-toe-java-project.git
+   cd tic-tac-toe-java-project
    ```
 3. **Compile the Application:**
    ```bash
